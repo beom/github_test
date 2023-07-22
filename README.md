@@ -1,2 +1,2 @@
 # github_test
-dev lecture for github!!
+dev lecture for github
